@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTaskPlatform", "TestTaskPlatform\TestTaskPlatform.csproj", "{23F13182-CC91-42E9-A02B-A86A8570374B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{456B16A7-2238-48B0-8A79-1A872693A784}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23F13182-CC91-42E9-A02B-A86A8570374B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23F13182-CC91-42E9-A02B-A86A8570374B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23F13182-CC91-42E9-A02B-A86A8570374B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23F13182-CC91-42E9-A02B-A86A8570374B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{456B16A7-2238-48B0-8A79-1A872693A784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456B16A7-2238-48B0-8A79-1A872693A784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456B16A7-2238-48B0-8A79-1A872693A784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{456B16A7-2238-48B0-8A79-1A872693A784}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

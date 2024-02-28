@@ -1,0 +1,12 @@
+D:\Rider\TestTaskPlatform\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\Rider\TestTaskPlatform\DAL\bin\Debug\net6.0\DAL.dll
+D:\Rider\TestTaskPlatform\DAL\bin\Debug\net6.0\ref\DAL.dll
+D:\Rider\TestTaskPlatform\DAL\bin\Debug\net6.0\DAL.pdb
+D:\Rider\TestTaskPlatform\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\Rider\TestTaskPlatform\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider\TestTaskPlatform\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\Rider\TestTaskPlatform\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\Rider\TestTaskPlatform\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\Rider\TestTaskPlatform\DAL\obj\Debug\net6.0\DAL.dll
+D:\Rider\TestTaskPlatform\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\Rider\TestTaskPlatform\DAL\obj\Debug\net6.0\DAL.pdb
